@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1" pages="4">
   <diagram id="rPmYMe_BZ9w1ppjwgFqB" name="latest">
-    <mxGraphModel dx="1414" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,7 +24,7 @@
         <mxCell id="yrSHy3t7s7mES_cY1TGq-43" parent="1" style="fillColor=#fdf5e0;strokeColor=#d4a82a;rounded=1;html=1;verticalAlign=bottom;fontSize=12;fontColor=#000000;fontStyle=0;spacingBottom=5;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;👥 HUMANITY&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;one species · 8 billion minds ·&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; shared biology · shared constructed worlds&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="368" width="292" x="648.5" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="yrSHy3t7s7mES_cY1TGq-46" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=12;fontStyle=1;fontColor=#000000;fillColor=#fff8f0;strokeColor=#d05030;strokeWidth=2;rounded=1;whiteSpace=wrap;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;🧑&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;THE PERSON&lt;/span&gt;&lt;/div&gt;you · me ·&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&amp;nbsp;the individual&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;with separate body mind&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;🦴🫀🫁🧠&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="yrSHy3t7s7mES_cY1TGq-46" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=12;fontStyle=1;fontColor=#000000;fillColor=#fff8f0;strokeColor=#d05030;strokeWidth=2;rounded=1;whiteSpace=wrap;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;🧑&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;THE PERSON&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;you · me ·&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&amp;nbsp;the individual&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;each with their own body and mind&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;🦴🫀🫁🧠&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="224" width="76" x="658" y="266" as="geometry" />
         </mxCell>
         <mxCell id="yrSHy3t7s7mES_cY1TGq-47" edge="1" parent="1" source="yrSHy3t7s7mES_cY1TGq-46" style="endArrow=openThin;endFill=0;html=1;strokeColor=#aaa;strokeWidth=1.5;exitX=1.009;exitY=0.154;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;startArrow=openThin;startFill=0;fontSize=12;fontColor=#000000;fontStyle=0" target="yrSHy3t7s7mES_cY1TGq-50" value="">
@@ -39,13 +39,13 @@
         <mxCell id="yrSHy3t7s7mES_cY1TGq-50" parent="1" style="text;align=left;verticalAlign=top;fontSize=12;fontStyle=0;fontColor=#000000;fillColor=#fff0e8;strokeColor=#e08060;rounded=1;whiteSpace=wrap;" value="🌐 DIGITAL WORLD&#xa;a new layer of reality we inhabit daily - internet, software, AI, social media  💻 📱 🤖" vertex="1">
           <mxGeometry height="84" width="176" x="756" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="yrSHy3t7s7mES_cY1TGq-51" parent="1" style="text;align=left;verticalAlign=top;fontSize=12;fontStyle=0;fontColor=#000000;fillColor=#f0eafa;strokeColor=#a080d0;rounded=1;whiteSpace=wrap;" value="💭 SHARED FICTIONAL SOCIAL MENTAL WORLD&#xa;language, law, money, religion, stories,shared constructs that feel real 📖 💰 🏛️ ⚖️ 🛐 🚦" vertex="1">
+        <mxCell id="yrSHy3t7s7mES_cY1TGq-51" parent="1" style="text;align=left;verticalAlign=top;fontSize=12;fontStyle=0;fontColor=#000000;fillColor=#f0eafa;strokeColor=#a080d0;rounded=1;whiteSpace=wrap;" value="💭 SHARED MENTAL WORLD&#xa;language, law, money, religion, stories,shared social fictional constructs that feel real  📖 💰 🏛️ ⚖️ 🛐 🚦" vertex="1">
           <mxGeometry height="84" width="176" x="756" y="336" as="geometry" />
         </mxCell>
         <mxCell id="yrSHy3t7s7mES_cY1TGq-52" parent="1" style="text;align=left;verticalAlign=top;fontSize=12;fontStyle=0;fontColor=#000000;fillColor=#e8f4fa;strokeColor=#50a8d0;rounded=1;whiteSpace=wrap;" value="👥 OTHER HUMANS&#xa;family, friends, strangers, society,language, culture, cooperation, conflict 👶🧒👦👧🧑👱👨🧔🧔‍♂️🧔‍♀️👨‍🦰👨‍🦱 8B" vertex="1">
           <mxGeometry height="84" width="176" x="756" y="432" as="geometry" />
         </mxCell>
-        <mxCell id="HJt0UzLyggMfZ-hSeCKj-24" parent="1" style="fillColor=#FFF8F0;strokeColor=#CC0000;rounded=1;verticalAlign=bottom;align=left;arcSize=10;spacingLeft=30;fontSize=12;fontStyle=0;spacingBottom=4;" value="🦴🫀🫁 BODY" vertex="1">
+        <mxCell id="HJt0UzLyggMfZ-hSeCKj-24" parent="1" style="fillColor=#FFF8F0;strokeColor=#CC0000;rounded=1;verticalAlign=bottom;align=left;arcSize=10;spacingLeft=30;fontSize=12;fontStyle=0;spacingBottom=7;" value="🦴🫀🫁 BODY" vertex="1">
           <mxGeometry height="512" width="415.5" x="177.5" y="190" as="geometry" />
         </mxCell>
         <mxCell id="HJt0UzLyggMfZ-hSeCKj-25" parent="1" style="fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;verticalAlign=bottom;align=left;arcSize=4;fontSize=12;fontStyle=0;spacingLeft=14;spacingBottom=5;html=1;" value="&amp;nbsp; &amp;nbsp;&lt;b&gt;1. Memory&lt;/b&gt;&amp;nbsp;/ Storehouse / Unconscious" vertex="1">
@@ -54,10 +54,10 @@
         <mxCell id="HJt0UzLyggMfZ-hSeCKj-15" parent="1" style="text;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#f5f5f5;fontColor=#000000;strokeColor=#666666;spacing=0;spacingLeft=3;fontSize=12;fontStyle=0" value="Dreamless Sleep / Dream" vertex="1">
           <mxGeometry height="18" width="143.75" x="203.25" y="621" as="geometry" />
         </mxCell>
-        <mxCell id="HJt0UzLyggMfZ-hSeCKj-19" parent="1" style="rounded=1;whiteSpace=wrap;strokeWidth=1;fontSize=12;fillColor=#cce5ff;align=right;verticalAlign=middle;spacingBottom=8;fontStyle=0;spacingTop=0;spacing=0;spacingRight=4;spacingLeft=-4;strokeColor=#36393d;labelPosition=center;verticalLabelPosition=middle;fontColor=#000000;" value="            Mammalian &#xa;Instincts                   " vertex="1">
+        <mxCell id="HJt0UzLyggMfZ-hSeCKj-19" parent="1" style="rounded=1;whiteSpace=wrap;strokeWidth=1;fontSize=12;fillColor=#cce5ff;align=center;verticalAlign=middle;spacingBottom=21;fontStyle=0;spacingTop=0;spacing=0;spacingRight=0;spacingLeft=0;strokeColor=#36393d;labelPosition=center;verticalLabelPosition=middle;fontColor=#000000;" value="Mammalian" vertex="1">
           <mxGeometry height="36" width="130" x="444" y="630" as="geometry" />
         </mxCell>
-        <mxCell id="HJt0UzLyggMfZ-hSeCKj-20" parent="1" style="rounded=1;whiteSpace=wrap;strokeWidth=1;fontSize=12;fillColor=#f5f5f5;align=center;verticalAlign=middle;strokeColor=#666666;gradientColor=#b3b3b3;fontColor=#000000;fontStyle=0" value="Reptilian" vertex="1">
+        <mxCell id="HJt0UzLyggMfZ-hSeCKj-20" parent="1" style="rounded=1;whiteSpace=wrap;strokeWidth=1;fontSize=12;fillColor=none;align=center;verticalAlign=middle;strokeColor=#666666;gradientColor=#b3b3b3;fontColor=#000000;fontStyle=0" value="Reptilian" vertex="1">
           <mxGeometry height="18" width="57" x="513" y="645" as="geometry" />
         </mxCell>
         <mxCell id="HJt0UzLyggMfZ-hSeCKj-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;fillColor=default;strokeColor=none;fontColor=#000000;fontStyle=0" value="Limbs" vertex="1">
@@ -84,7 +84,7 @@
         <mxCell id="7X2yccmgzbXkWPAi_fUt-44" parent="1" style="shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=63;notch=0;rounded=1;labelBackgroundColor=none;strokeWidth=1;fontSize=12;fillColor=#d5e8d4;direction=south;gradientColor=#97d077;strokeColor=#82b366;fontColor=#000000;fontStyle=0" value="" vertex="1">
           <mxGeometry height="22" width="26" x="376" y="412.38" as="geometry" />
         </mxCell>
-        <mxCell id="yrSHy3t7s7mES_cY1TGq-33" edge="1" parent="1" source="7X2yccmgzbXkWPAi_fUt-68" style="edgeStyle=orthogonalEdgeStyle;dashed=1;strokeColor=#d05030;strokeWidth=1;fontColor=#000000;fontSize=12;fontStyle=0;endArrow=block;endFill=1;startArrow=classicThin;startFill=1;exitX=1.001;exitY=-0.01;exitDx=0;exitDy=0;exitPerimeter=0;rounded=0;curved=0;entryX=0.003;entryY=0.261;entryDx=0;entryDy=0;entryPerimeter=0;" target="yrSHy3t7s7mES_cY1TGq-34" value="S&#xa;e&#xa;n&#xa;s&#xa;e&#xa;s ">
+        <mxCell id="yrSHy3t7s7mES_cY1TGq-33" edge="1" parent="1" source="7X2yccmgzbXkWPAi_fUt-68" style="edgeStyle=orthogonalEdgeStyle;dashed=1;strokeColor=#d05030;strokeWidth=1;fontColor=#000000;fontSize=12;fontStyle=0;endArrow=block;endFill=1;startArrow=classicThin;startFill=1;exitX=1.001;exitY=-0.01;exitDx=0;exitDy=0;exitPerimeter=0;rounded=0;curved=0;entryX=0.003;entryY=0.261;entryDx=0;entryDy=0;entryPerimeter=0;spacingLeft=10;" target="yrSHy3t7s7mES_cY1TGq-34" value="S&#xa;e&#xa;n&#xa;s&#xa;e&#xa;s">
           <mxGeometry relative="1" x="0.0581" y="-15" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
@@ -95,18 +95,18 @@
             <mxPoint x="610" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7X2yccmgzbXkWPAi_fUt-64" parent="1" style="shape=table;startSize=20;container=1;collapsible=0;childLayout=tableLayout;rounded=1;arcSize=20;fontSize=12;fontStyle=0;html=1;fillColor=default;strokeColor=none;swimlaneFillColor=#EA6B66;swimlaneLine=1;" value="&lt;b&gt;2.&amp;nbsp;Thought&lt;/b&gt; — snapshot of Thinking" vertex="1">
+        <mxCell id="7X2yccmgzbXkWPAi_fUt-64" parent="1" style="shape=table;startSize=20;container=1;collapsible=0;childLayout=tableLayout;rounded=1;arcSize=20;fontSize=12;fontStyle=0;html=1;fillColor=default;strokeColor=default;swimlaneFillColor=none;swimlaneLine=1;" value="&lt;b&gt;2.&amp;nbsp;Thought&lt;/b&gt; — snapshot of Thinking" vertex="1">
           <mxGeometry height="189" width="289" x="240.75" y="223" as="geometry" />
         </mxCell>
         <mxCell id="7X2yccmgzbXkWPAi_fUt-65" parent="7X2yccmgzbXkWPAi_fUt-64" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontColor=#000000;fontStyle=0" value="" vertex="1">
           <mxGeometry height="85" width="289" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="7X2yccmgzbXkWPAi_fUt-66" parent="7X2yccmgzbXkWPAi_fUt-65" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#ffcccc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontStyle=0" value="&lt;b&gt;&lt;span&gt;3. I i&amp;nbsp;&lt;/span&gt;&lt;span&gt;९ (Rho)&lt;/span&gt;&lt;/b&gt;&lt;div&gt;&lt;span&gt;the thought-made personality&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="7X2yccmgzbXkWPAi_fUt-66" parent="7X2yccmgzbXkWPAi_fUt-65" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontStyle=0" value="&lt;b&gt;&lt;span&gt;3. I i&amp;nbsp;&lt;/span&gt;&lt;span&gt;९ (Rho)&lt;/span&gt;&lt;/b&gt;&lt;div&gt;&lt;span&gt;the thought-made personality&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;sense of I, built by thought&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="85" width="210" as="geometry">
             <mxRectangle height="85" width="210" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7X2yccmgzbXkWPAi_fUt-67" parent="7X2yccmgzbXkWPAi_fUt-65" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#ffcccc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontStyle=0" value="Others,&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;Other objects" vertex="1">
+        <mxCell id="7X2yccmgzbXkWPAi_fUt-67" parent="7X2yccmgzbXkWPAi_fUt-65" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontStyle=0" value="Others,&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;Other objects" vertex="1">
           <mxGeometry height="85" width="79" x="210" as="geometry">
             <mxRectangle height="85" width="79" as="alternateBounds" />
           </mxGeometry>
@@ -114,12 +114,12 @@
         <mxCell id="7X2yccmgzbXkWPAi_fUt-68" parent="7X2yccmgzbXkWPAi_fUt-64" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontColor=#000000;fontStyle=0" value="" vertex="1">
           <mxGeometry height="84" width="289" y="105" as="geometry" />
         </mxCell>
-        <mxCell id="7X2yccmgzbXkWPAi_fUt-69" parent="7X2yccmgzbXkWPAi_fUt-68" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#ffcccc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontStyle=0" value="Me - my life&#39;s autobiography" vertex="1">
+        <mxCell id="7X2yccmgzbXkWPAi_fUt-69" parent="7X2yccmgzbXkWPAi_fUt-68" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontStyle=0" value="Me &#xa;my life&#39;s autobiography&#xa;The story I tell myself" vertex="1">
           <mxGeometry height="84" width="210" as="geometry">
             <mxRectangle height="84" width="210" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7X2yccmgzbXkWPAi_fUt-70" parent="7X2yccmgzbXkWPAi_fUt-68" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#ffcccc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontStyle=0" value="Mine&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;objects I own" vertex="1">
+        <mxCell id="7X2yccmgzbXkWPAi_fUt-70" parent="7X2yccmgzbXkWPAi_fUt-68" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontStyle=0" value="Mine&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;objects I own" vertex="1">
           <mxGeometry height="84" width="79" x="210" as="geometry">
             <mxRectangle height="84" width="79" as="alternateBounds" />
           </mxGeometry>
@@ -160,17 +160,8 @@
         <mxCell id="7X2yccmgzbXkWPAi_fUt-85" parent="1" style="shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=63;notch=0;rounded=1;labelBackgroundColor=none;strokeWidth=1;fontSize=12;fillColor=#d5e8d4;direction=south;gradientColor=#97d077;strokeColor=#82b366;fontColor=#000000;fontStyle=0" value="" vertex="1">
           <mxGeometry height="30" width="30" x="774" y="703" as="geometry" />
         </mxCell>
-        <mxCell id="7X2yccmgzbXkWPAi_fUt-86" edge="1" parent="1" source="7X2yccmgzbXkWPAi_fUt-9" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.483;exitY=0.014;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;entryPerimeter=0;fontSize=12;curved=1;" target="7X2yccmgzbXkWPAi_fUt-44" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="383" y="470" />
-            </Array>
-            <mxPoint x="80" y="718" as="sourcePoint" />
-            <mxPoint x="130" y="668" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bz80XRYu0LijpzBqliKi-87" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;flipH=0;legacyAnchorPoints=0;flipV=0;direction=north;size=20;position=0.38;" value="" vertex="1">
-          <mxGeometry height="75" width="120" x="20" y="401" as="geometry" />
+        <mxCell id="bz80XRYu0LijpzBqliKi-87" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;flipH=0;legacyAnchorPoints=0;flipV=0;direction=east;size=20;position=0.38;fillColor=#ffff88;strokeColor=#36393d;" value="" vertex="1">
+          <mxGeometry height="68.5" width="150" x="10" y="420" as="geometry" />
         </mxCell>
         <mxCell id="bz80XRYu0LijpzBqliKi-88" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="" vertex="1">
           <mxGeometry height="80" width="120" x="20" y="300" as="geometry" />
@@ -178,7 +169,7 @@
         <mxCell id="bz80XRYu0LijpzBqliKi-89" parent="1" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" value="" vertex="1">
           <mxGeometry height="80" width="100" x="30" y="516" as="geometry" />
         </mxCell>
-        <mxCell id="bz80XRYu0LijpzBqliKi-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" value="Memory - storehouse of thoughts&lt;div&gt;Each thought is its own i,me,mine,others + its emotion&lt;/div&gt;" vertex="1">
+        <mxCell id="bz80XRYu0LijpzBqliKi-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" value="Memory - storehouse of thoughts&lt;div&gt;Each thought has its own i, me, mine, others &amp;amp; emotion&lt;/div&gt;" vertex="1">
           <mxGeometry height="130" width="360" x="205.25" y="478" as="geometry" />
         </mxCell>
         <mxCell id="7X2yccmgzbXkWPAi_fUt-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=1;labelBackgroundColor=#FFFFFF;strokeWidth=0.5;fontSize=12;fontColor=#000000;fillColor=#F8CECC;arcSize=0;swimlaneLine=0;shadow=0;swimlaneFillColor=none;gradientColor=none;spacingBottom=-6;spacingTop=-1;fontStyle=4;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" value="" vertex="1">
@@ -529,11 +520,32 @@
             <mxRectangle height="4" width="11" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HJt0UzLyggMfZ-hSeCKj-16" parent="1" style="text;whiteSpace=wrap;fontSize=10;verticalAlign=middle;align=center;fillColor=none;strokeColor=#d79b00;rounded=1;fontColor=#000000;fontStyle=0" value="🫧🚀 Trigger / Start of a thought" vertex="1">
+        <mxCell id="HJt0UzLyggMfZ-hSeCKj-16" parent="1" style="text;whiteSpace=wrap;fontSize=10;verticalAlign=middle;align=center;fillColor=none;strokeColor=#d79b00;rounded=1;fontColor=#000000;fontStyle=0" value="🫧🚀 Trigger of a thought" vertex="1">
           <mxGeometry height="15" width="150" x="217" y="482" as="geometry" />
         </mxCell>
-        <mxCell id="HJt0UzLyggMfZ-hSeCKj-17" parent="1" style="text;whiteSpace=wrap;fontSize=10;fillColor=none;strokeColor=#d6b656;verticalAlign=middle;rounded=1;fontColor=#000000;fontStyle=0;align=center;" value="End of a thought 📥 / conclusion 🎯" vertex="1">
+        <mxCell id="HJt0UzLyggMfZ-hSeCKj-17" parent="1" style="text;whiteSpace=wrap;fontSize=10;fillColor=none;strokeColor=#d6b656;verticalAlign=middle;rounded=1;fontColor=#000000;fontStyle=0;align=center;" value="Thought ends - stored as memory📥🎯" vertex="1">
           <mxGeometry height="15" width="166" x="383" y="483" as="geometry" />
+        </mxCell>
+        <mxCell id="7X2yccmgzbXkWPAi_fUt-86" edge="1" parent="1" source="HJt0UzLyggMfZ-hSeCKj-16" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;entryPerimeter=0;fontSize=12;curved=1;" target="7X2yccmgzbXkWPAi_fUt-44" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="383" y="470" />
+            </Array>
+            <mxPoint x="80" y="718" as="sourcePoint" />
+            <mxPoint x="130" y="668" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bz80XRYu0LijpzBqliKi-91" parent="1" style="text;whiteSpace=wrap;html=1;" value="read from inside out: 1 → 2 → 3&quot;" vertex="1">
+          <mxGeometry height="30" width="183" x="627" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="bz80XRYu0LijpzBqliKi-92" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#2395FF;strokeColor=none;gradientDirection=east;fillColor=#2395FF;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" value="1" vertex="1">
+          <mxGeometry height="20" width="20" x="736" y="765" as="geometry" />
+        </mxCell>
+        <mxCell id="bz80XRYu0LijpzBqliKi-93" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#2395FF;strokeColor=none;gradientDirection=east;fillColor=#2395FF;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" value="2" vertex="1">
+          <mxGeometry height="20" width="20" x="759" y="765" as="geometry" />
+        </mxCell>
+        <mxCell id="bz80XRYu0LijpzBqliKi-94" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#0057D2;strokeColor=none;gradientDirection=east;fillColor=#2395FF;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" value="3" vertex="1">
+          <mxGeometry height="20" width="20" x="790" y="765" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -899,7 +911,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="updated" id="Bcpw0GB7ONKY1pUT0BfC">
-    <mxGraphModel dx="3346" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="uU0VY7tBC_XEji8cTQzt-0" />
         <mxCell id="uU0VY7tBC_XEji8cTQzt-1" parent="uU0VY7tBC_XEji8cTQzt-0" />
